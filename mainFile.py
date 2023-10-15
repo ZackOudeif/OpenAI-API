@@ -6,7 +6,7 @@ from base64 import b64decode
 import io
 from PIL import Image
 
-openai.api_key = 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
+openai.api_key = 'your key goes here'
 
 iPrefix = "\n\nReview:\n"
 iSuffix = "\n"
